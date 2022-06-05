@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = contact@yannicklescure.com
+	name = Yannick Lescure
